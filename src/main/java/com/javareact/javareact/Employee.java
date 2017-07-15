@@ -1,10 +1,10 @@
 package com.javareact.javareact;
 
-import lombok.Data;
-import org.springframework.data.annotation.Id;
-
 import javax.persistence.Entity;
 import javax.persistence.GeneratedValue;
+import javax.persistence.Id;
+
+import lombok.Data;
 
 /**
  * Created by gnargnor on 7/14/17.
